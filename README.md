@@ -1,3 +1,4 @@
+
 # Blog por consola (versión modular)
 
 Sistema de blog por consola en Python. Permite listar posts, buscar por título, filtrar por tag y validar la estructura de los posts cargados en memoria.
@@ -17,8 +18,8 @@ python main.py
 El archivo que se ejecuta es **`main.py`**.
 
 ## Estructura del proyecto
+...
 
-```
 blog_consola/
 │
 ├── main.py              # Punto de entrada: arma el flujo del menú
@@ -72,3 +73,7 @@ Un post es válido si:
 5. **Salir**: muestra un mensaje de despedida y termina el programa.
 
 Si se ingresa algo que no es un número del 1 al 5, el programa avisa que la opción es inválida y vuelve a mostrar el menú.
+=======
+# blog_consola
+Blog por consola organizado en módulos y paquetes
+>>>>>>> c801f0729817ad2f4a06a2d2e034fd9b94b12140
